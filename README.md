@@ -1,4 +1,5 @@
 # rocket.skills
+#хуй
 Edu platform for Rocket company
 
 ## Что где?
